@@ -50,7 +50,7 @@ Para ejecutar los notebooks, necesitas tener instalado Python y las librerías d
 
 Clona este repositorio:
 
-git clone [https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git](https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git)
+git clone  https://github.com/NachoIommi/Quantum-Algorithms.git
 cd NOMBRE_DEL_REPO
 
 
